@@ -7,6 +7,7 @@
   2.目前的算法只支持分布式Item-based，Kmeans的推荐 <br /> 
   3.支持简单的可配置 <br /> 
   4.支持定时和协同两种工作模式 <br /> 
+  
   -----------
 
   The Current Version : 1.0-beta
